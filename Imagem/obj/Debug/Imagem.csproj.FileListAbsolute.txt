@@ -1,0 +1,10 @@
+C:\projects\softwares\Imagem\Imagem\bin\Debug\Imagem.exe.config
+C:\projects\softwares\Imagem\Imagem\bin\Debug\Imagem.exe
+C:\projects\softwares\Imagem\Imagem\bin\Debug\Imagem.pdb
+C:\projects\softwares\Imagem\Imagem\obj\Debug\Imagem.Form1.resources
+C:\projects\softwares\Imagem\Imagem\obj\Debug\Imagem.Properties.Resources.resources
+C:\projects\softwares\Imagem\Imagem\obj\Debug\Imagem.csproj.GenerateResource.cache
+C:\projects\softwares\Imagem\Imagem\obj\Debug\Imagem.csproj.CoreCompileInputs.cache
+C:\projects\softwares\Imagem\Imagem\obj\Debug\Imagem.exe
+C:\projects\softwares\Imagem\Imagem\obj\Debug\Imagem.pdb
+C:\projects\softwares\Imagem\Imagem\obj\Debug\Imagem.csprojAssemblyReference.cache
